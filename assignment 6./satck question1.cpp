@@ -48,7 +48,7 @@ int main() {
 	s.pop();
 	cout<<"size: "<<s.size()<<"\n";
 	cout<<"empty: "<<s.isEmpty()<<"\n";
- 
+   
 	s.push(5);
 	s.push(3);
 	cout<<"front: "<<s.top()<<"\n";
